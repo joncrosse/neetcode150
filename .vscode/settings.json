@@ -1,0 +1,10 @@
+{
+    // Turn off AI and inline code suggestions in Python files so solutions are written by hand.
+    "[python]": {
+        "editor.inlineSuggest.enabled": false
+    },
+    "github.copilot.enable": {
+        "python": false
+    },
+    "github.copilot.nextEditSuggestions.enabled": false
+}
