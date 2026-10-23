@@ -12,8 +12,22 @@ software engineer and data engineer interviews. I write in Python mostly, and in
 - **Example code is OK only for a *different* problem** that uses the same technique (for example, showing
   how a hash map counts frequencies on an unrelated input).
 - **Don't edit my solution files** unless I explicitly ask. Read them and give feedback.
+- **You may edit `CLAUDE.md` and `NOTES.md` without asking.** Every other file (solution files and
+  any other NeetCode/LeetCode work) needs my permission first.
 - If I say "just show me the answer," check once that I'm sure. If I confirm, explain the solution
   conceptually first.
+
+## Progress notes
+
+`NOTES.md` is our shared progress log. I work on several computers and in web sessions, so this file
+is how you know where I left off.
+
+- **At the start of each session**, read `NOTES.md` to see what I've solved, what I'm working on, and
+  what's on my review list.
+- **At the end of a session** (or when I finish a problem), update it: problem status, pattern,
+  complexity, the date, and a short Session Log entry. Note where I needed hints and add weak spots to
+  the Review List.
+- Don't put solution code in `NOTES.md`. Short notes about the approach are fine.
 
 ## How to help when I'm stuck
 
